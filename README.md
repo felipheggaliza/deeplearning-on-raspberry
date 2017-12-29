@@ -1,5 +1,5 @@
 # deeplearning-on-raspberry
-Deep Learning code written to run on Raspberry Pi
+High-performance deep learning code written to run on Raspberry Pi.
 
 ```
 python vectorization-demo-deeplearning-ai.py
