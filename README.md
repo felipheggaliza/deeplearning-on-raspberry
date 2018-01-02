@@ -2,7 +2,7 @@
 High-performance deep learning code written to run on Raspberry Pi.
 
 ```
-python vectorization-demo-deeplearning-ai.py
+python vectorization-demo.py
 c value: 249889.531904
 Vectorized version: 8.95810127258 ms
 c value: 249889.531904
